@@ -1,0 +1,22 @@
+{
+  "name": "learnhapi",
+  "version": "1.0.0",
+  "description": "a project for learing Hapi or may be even more~",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wantanmee/learnHapi.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "WanTanMee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wantanmee/learnHapi/issues"
+  },
+  "homepage": "https://github.com/wantanmee/learnHapi#readme"
+}
